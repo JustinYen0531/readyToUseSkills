@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Jam GDD Coach"
+  short_description: "Guided jam GDD flow that drives next-step ideation"
+  default_prompt: "Use $game-jam-gdd-coach to guide me through a fast Game Jam design canvas and keep leading me to the next step."
