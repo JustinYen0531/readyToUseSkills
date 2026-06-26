@@ -1,0 +1,4 @@
+interface:
+  display_name: "MineChess Dual Networking"
+  short_description: "PeerJS and Photon multiplayer pattern for game jams"
+  default_prompt: "Use $minechess-dual-networking to add or adapt a two-mode multiplayer layer with PeerJS and Photon."
